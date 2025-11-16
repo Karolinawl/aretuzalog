@@ -1,0 +1,20 @@
+date,weekday,session,attended
+2025-09-29,Monday,Welcome Call,True
+2025-09-29,Monday,Data coach,True
+2025-09-29,Monday,Stand down,True
+
+2025-09-30,Tuesday,Stand up,True
+2025-09-30,Tuesday,TSC masterclass,True
+2025-09-30,Tuesday,Stand down,True
+
+2025-10-01,Wednesday,Stand up,True
+2025-10-01,Wednesday,Stand down,True
+
+2025-10-02,Thursday,Stand up,True
+2025-10-02,Thursday,TSC masterclass,True
+2025-10-02,Thursday,Guided session,True
+2025-10-02,Thursday,Stand down,True
+
+2025-10-03,Friday,Stand up,True
+2025-10-03,Friday,Data coach,True
+2025-10-03,Friday,Stand down,True

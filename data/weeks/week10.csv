@@ -1,0 +1,21 @@
+date,weekday,session,attended
+2025-12-01,Monday,Stand up,NaN
+2025-12-01,Monday,Guided session,NaN
+2025-12-01,Monday,Stand down,NaN
+
+2025-12-02,Tuesday,Stand up,NaN
+2025-12-02,Tuesday,TSC masterclass,NaN
+2025-12-02,Tuesday,Stand down,NaN
+
+2025-12-03,Wednesday,Stand up,NaN
+2025-12-03,Wednesday,Data coach,NaN
+2025-12-03,Wednesday,Stand down,NaN
+
+2025-12-04,Thursday,Stand up,NaN
+2025-12-04,Thursday,TSC masterclass,NaN
+2025-12-04,Thursday,Guided session,NaN
+2025-12-04,Thursday,Stand down,NaN
+
+2025-12-05,Friday,Stand up,NaN
+2025-12-05,Friday,Data coach,NaN
+2025-12-05,Friday,Stand down,NaN
